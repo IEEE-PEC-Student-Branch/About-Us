@@ -47,3 +47,29 @@ Our vision to conquer zenith, zeal to learn, and the cooperation among the membe
     <img src="images/ieee_ras.png" alt="Image" width="150" height="80">
   </a>
 </p>
+
+<br>
+<br>
+
+### ❤️&nbsp; Organization Admin
+
+<br>
+
+
+<table>
+  <tr>
+    <td align="center"><a href="https://www.linkedin.com/in/harshit-singh-lko"><img src="https://avatars1.githubusercontent.com/u/47476857?s=400&u=8b1d57f71964ea8821662524e171a16e4fcc5c79&v=4" width="150px;" alt="https://github.com/Harshit564"/><br /><sub><b>Harshit Singh</b></sub></a>
+    <br>
+    <br>
+    <a href="https://www.linkedin.com/in/harshit-singh-lko"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a>
+    </td> 
+    <td></td>
+    <td></td>
+    <td align="center"><a href="https://www.linkedin.com/"><img src="https://avatars.githubusercontent.com/u/68017172?v=4" width="150px;" alt="https://github.com/mehakg99"/><br /><sub><b>Mehak Garg</b></sub></a>
+    <br>
+    <br>
+    <a href="https://www.linkedin.com/"><img src="https://mpng.subpng.com/20180324/vhe/kisspng-linkedin-computer-icons-logo-social-networking-ser-facebook-5ab6ebfe5f5397.2333748215219374063905.jpg" width="32px" height="32px"></a>
+    </td>
+   
+  </tr>
+</table>
